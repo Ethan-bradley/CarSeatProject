@@ -1,4 +1,5 @@
-CarSeatProject   
+Car Seat Project
+----------------
 
 Organizations
 -------------

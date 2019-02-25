@@ -1,5 +1,5 @@
-Car Seat Project
-----------------
+Car Seat Project App
+---------------------
 
 Organizations
 -------------

@@ -3,7 +3,7 @@ Car Seat Project
 
 Organizations
 -------------
-None for now except Miramonte High School.
+None currently for now except Miramonte High School. Profits will go to members of project not to school.
 
 Project Description
 -------------------
